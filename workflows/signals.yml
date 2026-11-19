@@ -1,4 +1,4 @@
-name: Update GMGN signals
+name: github/workflows/signals.yml
 
 on:
   schedule:
